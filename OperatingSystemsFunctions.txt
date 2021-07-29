@@ -1,4 +1,1 @@
-One function of the 
-iOS Operating system functions
-is to connect high-speed traffic
-between devices
+One operating systems function is that its able to establish a connection to the internet. It's one of many things the hardware of the operating system organizes. The computer can also act as a network participant, by defining a specific ip address to connect to. A person can also connect through subnet and LAN connections. 
